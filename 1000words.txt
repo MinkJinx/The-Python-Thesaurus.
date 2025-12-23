@@ -1,0 +1,474 @@
+the : definite article used to specify something , none , none
+be : to exist or occur , exist/live , cease
+to : indicates direction or purpose , none , none
+of : indicates relation or belonging , none , none
+and : used to connect words or clauses , plus , but
+a : indefinite article for non-specific nouns , none , none
+in : inside or within something , inside/within , outside
+that : refers to a specific thing or idea , which , none
+have : to possess , own/possess , lack/lose
+I : first-person singular pronoun , none , none
+it : pronoun for a thing , none , none
+for : intended for or in support of , intended for , against
+not : expresses negation , no , yes
+on : in contact with a surface , upon , off
+with : accompanied by , alongside , without
+he : male singular pronoun , none , none
+as : indicates comparison or role , like , none
+you : second-person pronoun , none , none
+do : perform an action , perform/carry out , fail/neglect
+at : indicates location or time , none , none
+this : refers to something close , this one , that
+but : indicates contrast , however , and
+his : possessive of he , none , none
+by : indicates agent or means , via/through , none
+from : indicates origin or starting point , out of , to
+they : third-person plural pronoun , none , none
+we : first-person plural pronoun , none , none
+say : to speak verbally , state/tell , silence
+her : possessive/object form of she , none , none
+she : female singular pronoun , none , none
+or : indicates alternatives , otherwise , and
+an : indefinite article before vowel sound , none , none
+will : expresses future action , shall , none
+my : possessive of I , none , none
+one : the number 1 , single/unit , many
+all : the whole amount , every , none
+would : expresses conditional or possibility , might , none
+there : in that place , over there , here
+their : possessive of they , none , none
+what : asks for information , which , none
+so : to such an extent; therefore , thus/therefore , none
+up : toward a higher position , above , down
+out : away from the inside , outside , in
+if : introduces a condition , provided that , none
+about : concerning a topic , regarding/concerning , none
+who : asks or identifies a person , none , none
+get : obtain or receive , obtain/acquire , lose
+which : specifies one from a set , what , none
+go : move from one place to another , move/travel , stay
+me : first-person object pronoun , none , none
+when : asks about time , at what time , none
+make : to create or produce , create/produce , destroy
+can : expresses ability or permission , be able to , cannot
+like : to enjoy something , enjoy/appreciate , dislike/hate
+time : a measurable period , duration , none
+no : expresses negation/refusal , not/none , yes
+just : exactly; only , only/simply , unfair
+him : object pronoun for he , none , none
+know : to be aware or familiar with , understand/realize , ignore/forget
+take : to acquire or remove , grab/obtain , give/return
+people : humans collectively , humans/individuals , none
+into : movement toward the inside , inside , out of
+year : 12-month period , annum , none
+your : possessive of you , none , none
+good : of high quality , great/excellent , bad
+some : an unspecified amount , a few/several , none
+could : expresses possibility/past ability , might , none
+them : object pronoun for they , none , none
+see : to perceive visually , observe/view , miss/overlook
+other : different from the one mentioned , another , same
+than : used in comparisons , none , none
+then : at that time; next , afterward , before
+now : at the present moment , currently , later
+look : to direct eyes toward something , see/glance , ignore
+only : no more than; solely , solely/just , many
+come : to move toward something , arrive , go/leave
+its : possessive of it , none , none
+over : above or across , above , under
+think : to form an idea or opinion , believe/consider , ignore
+also : in addition , too/as well , none
+back : rear or previous position , rear/behind , front
+after : later in time , following , before
+use : apply for a purpose , utilize , neglect
+two : the number 2 , pair , none
+how : in what way , in what way , none
+our : possessive of we , none , none
+work : to perform labor , labor/toil , rest
+first : before all others , initial/primary , last
+well : in a good manner , properly/nicely , poorly
+way : a path or direction , path/route , none
+even : flat or level , level/smooth , uneven
+new : not old or used before , recent/novel , old
+want : to desire something , desire/wish , reject
+because : for the reason that , due to , none
+any : one or some of a thing , some , none
+these : refers to things nearby , these ones , those
+give : to provide or transfer , provide/donate , take
+day : 24-hour period , daily cycle , night
+most : the greatest amount , majority , least
+us : object pronoun for we , none , none
+is : third person singular of be , exists , isn't
+was : past tense of be , existed , wasn't
+are : plural form of be , exist , aren't
+very : to a great degree , extremely , slightly
+can't : cannot , unable to , can
+here : in this place , this location , there
+right : correct or proper , correct/proper , wrong
+tell : to communicate information , inform/narrate , silence
+ask : to request information , request/inquire , answer
+need : to require something , require/demand , provide
+feel : to experience emotion , experience/sense , none
+become : to grow into a state , grow/transform , none
+leave : to go away from , depart/exit , arrive
+put : to place something , place/position , remove
+mean : to intend or signify , intend/signify , none
+keep : to retain possession , retain/hold , release
+let : to allow or permit , allow/permit , prevent
+begin : to start something , start/commence , end
+seem : to appear or look , appear/look , none
+help : to assist or aid , assist/aid , hinder
+talk : to speak or converse , speak/converse , silence
+turn : to rotate or pivot , rotate/spin , none
+start : to begin or commence , begin/commence , end
+show : to display or reveal , display/reveal , hide
+hear : to perceive sound , perceive/listen , deafen
+meet : to encounter someone , encounter/greet , avoid
+run : to move quickly , move/sprint , stop
+live : to reside or exist , reside/dwell , die
+believe : to accept as true , accept/trust , disbelieve
+hold : to grasp or contain , grasp/hold , release
+bring : to carry toward , carry/transport , take
+call : to summon or name , summon/name , ignore
+hand : to give by hand , give/pass , receive
+part : a piece or section , section/piece , whole
+boy : male child , male child , girl
+case : an instance or container , instance/example , none
+place : a location or position , location/position , none
+problem : a difficult situation , difficulty/issue , solution
+fact : something known to be true , reality/truth , fiction
+school : institution of learning , educational institution , none
+world : the planet or universe , planet/earth , none
+high : extending upward , tall/elevated , low
+different : not the same , unlike/distinct , same
+away : at or to a distance , distant/far , near
+end : final part or conclusion , finish/conclusion , beginning
+why : for what reason , reason/cause , none
+old : not young or new , aged/ancient , young
+thing : an object or matter , object/matter , none
+still : continuing without motion , motionless/calm , moving
+find : to locate or discover , locate/discover , lose
+number : a quantity or figure , quantity/count , none
+down : toward lower position , below/lower , up
+before : earlier in time , earlier/prior , after
+write : to mark or compose , mark/compose , erase
+follow : to go behind or obey , obey/pursue , lead
+watch : to observe or monitor , observe/monitor , ignore
+rather : by preference or comparison , preferably/instead , none
+large : of great size , big/huge , small
+through : from one end to other , across/via , none
+always : at all times , constantly/forever , never
+important : of great significance , significant/crucial , trivial
+student : one who studies , learner/pupil , teacher
+family : parents and children , relatives/kin , none
+complete : finished or entire , finished/whole , incomplete
+society : human community , community/civilization , none
+free : not imprisoned or no cost , liberated/complimentary , captive
+available : able to be used , accessible/obtainable , unavailable
+together : with each other , jointly/collectively , separately
+animal : living creature , creature/beast , none
+picture : visual representation , image/photo , none
+example : something typical , instance/illustration , none
+house : building for residence , residence/dwelling , none
+president : head of state or organization , leader/head , none
+system : organized procedure , method/procedure , none
+language : communication system , speech/dialect , silence
+purpose : intended function , intention/goal , none
+member : part of a group , participant/part , outsider
+question : something asked , inquiry/query , answer
+effect : result or influence , result/consequence , cause
+public : belonging to people , community/general , private
+level : degree or flat surface , stage/degree , none
+paper : material for writing , document/sheet , none
+team : group working together , group/squad , none
+story : narrative or account , narrative/tale , none
+side : edge or surface , edge/surface , center
+change : to alter or transform , alter/modify , maintain
+book : written work , publication/volume , none
+service : helpful activity , assistance/aid , none
+month : period of 30/31 days , lunar period , none
+line : mark or row , mark/row , none
+evidence : proof or indication , proof/evidence , doubt
+power : ability or energy , ability/strength , weakness
+group : collection of things , collection/set , none
+minute : small amount of time , moment/instant , hour
+sound : auditory sensation , noise/tone , silence
+ability : capacity or skill , capacity/skill , inability
+human : relating to people , person/mankind , none
+truth : state of being true , reality/fact , falsehood
+state : condition or nation , condition/status , none
+effort : exertion or attempt , attempt/exertion , laziness
+action : doing something , deed/activity , inaction
+street : public way in city , road/avenue , none
+building : structure or construction , structure/edifice , none
+report : account or announce , account/statement , none
+market : place of commerce , marketplace/bazaar , none
+water : liquid H2O , liquid/fluid , none
+quality : degree of excellence , excellence/standard , inferiority
+method : procedure or technique , procedure/technique , none
+area : region or space , region/space , none
+result : consequence or outcome , outcome/consequence , cause
+future : time to come , tomorrow/ahead , past
+history : record of past , past/record , none
+social : relating to society , communal/collective , antisocial
+child : young human , kid/youth , adult
+woman : adult female , lady/female , man
+man : adult male , gentleman/male , woman
+parent : mother or father , caregiver/guardian , child
+friend : person you know well , companion/ally , enemy
+teacher : one who educates , educator/instructor , student
+doctor : medical professional , physician/medic , patient
+patient : person receiving treatment , sick/ill , doctor
+nurse : healthcare worker , caregiver/attendant , patient
+police : law enforcement , officer/authority , criminal
+judge : one who presides in court , magistrate/jurist , defendant
+lawyer : legal professional , attorney/counselor , client
+government : system of ruling , administration/state , none
+president : leader of nation , chief/head , citizen
+minister : government official , official/representative , none
+military : armed forces , army/defense , civilian
+soldier : armed service member , warrior/fighter , civilian
+officer : person in authority , official/commander , subordinate
+captain : military leader , commander/leader , none
+general : high-ranking officer , commander/chief , soldier
+king : male monarch , ruler/sovereign , subject
+queen : female monarch , ruler/sovereign , subject
+prince : son of monarch , heir/royal , commoner
+princess : daughter of monarch , royal/heir , commoner
+noble : person of high rank , aristocrat/lord , commoner
+peasant : rural working person , laborer/farmer , noble
+merchant : trader or seller , vendor/trader , buyer
+farmer : one who grows crops , cultivator/grower , none
+worker : one who works , laborer/employee , employer
+employee : person hired for work , worker/staff , employer
+employer : one who hires workers , boss/owner , employee
+boss : person in charge , leader/manager , subordinate
+manager : one who oversees , director/supervisor , subordinate
+director : one who directs , leader/chief , staff
+actor : performer in plays , performer/artist , audience
+actress : female performer , performer/artist , audience
+musician : one who plays music , performer/artist , audience
+artist : creative person , creator/painter , none
+painter : one who paints , artist/creator , none
+sculptor : one who sculpts , artist/carver , none
+writer : one who writes , author/composer , reader
+poet : one who writes poetry , versifier/bard , none
+journalist : news reporter , reporter/correspondent , none
+photographer : one who takes photos , cameraman/artist , none
+scientist : one who studies science , researcher/scholar , none
+mathematician : math expert , scholar/calculator , none
+physicist : studies physics , scientist/researcher , none
+chemist : studies chemistry , scientist/researcher , none
+biologist : studies biology , scientist/researcher , none
+engineer : builds structures , designer/builder , none
+architect : designs buildings , designer/planner , none
+carpenter : works with wood , craftsman/builder , none
+blacksmith : works with metal , craftsman/metalworker , none
+tailor : makes clothes , seamstress/dressmaker , none
+shoemaker : makes shoes , cobbler/craftsman , none
+baker : makes bread , pastry chef/cook , none
+cook : prepares food , chef/preparer , none
+chef : professional cook , cook/culinary expert , none
+waiter : serves food , server/attendant , none
+bartender : serves drinks , mixologist/bartender , none
+driver : operates vehicle , chauffeur/motorist , none
+pilot : operates aircraft , airman/flyer , none
+sailor : works on ships , seaman/mariner , none
+fisherman : catches fish , angler/fisher , none
+hunter : hunts animals , pursuer/tracker , none
+gardener : tends plants , grower/cultivator , none
+florist : works with flowers , flower seller , none
+jeweler : works with jewelry , gemologist/craftsman , none
+clockmaker : makes clocks , horologist/craftsman , none
+bookbinder : binds books , binder/craftsman , none
+printer : operates printing press , publisher/pressman , none
+publisher : publishes works , editor/issuer , none
+editor : edits publications , corrector/reviser , none
+translator : translates languages , interpreter/converter , none
+interpreter : explains/translates , explainer/clarifier , none
+guide : leads/shows way , leader/conductor , none
+guard : protects/watches , protector/watchman , none
+servant : works for others , attendant/helper , master
+master : person in authority , employer/chief , servant
+owner : one who possesses , proprietor/holder , renter
+renter : one who rents , tenant/lessee , owner
+landlord : owner of rental property , proprietor/owner , tenant
+tenant : one who rents space , occupant/lessee , landlord
+guest : visitor or visitor , visitor/invitee , host
+host : one who receives guests , entertainer/invitee , guest
+customer : one who buys , buyer/patron , seller
+seller : one who sells , vendor/merchant , buyer
+buyer : one who purchases , purchaser/customer , seller
+trader : one who trades , merchant/dealer , none
+dealer : one who deals , merchant/trader , none
+miner : one who mines , digger/excavator , none
+logger : cuts timber , lumberjack/timber worker , none
+rancher : raises livestock , herder/cattleman , none
+herder : tends animals , shepherd/drover , none
+shepherd : tends sheep , herder/pastor , none
+cowherd : tends cattle , herder/cattleman , none
+groom : tends horses , stable worker/handler , none
+stable : place for horses , barn/shed , none
+barn : farm building , shed/structure , none
+stable : building for animals , barn/shed , none
+storehouse : building for storage , warehouse/depot , none
+warehouse : large storage , storehouse/depot , none
+granary : stores grain , silo/storehouse , none
+pantry : food storage area , larder/cupboard , none
+cellar : underground room , basement/vault , none
+attic : upper room , loft/garret , none
+room : enclosed space , chamber/space , none
+chamber : enclosed area , room/hall , none
+hall : large room , chamber/gallery , none
+gallery : passage or exhibition , corridor/passage , none
+corridor : passageway , hallway/passage , none
+hallway : passage in building , corridor/passage , none
+stairway : stairs for climbing , staircase/steps , none
+staircase : stairs , stairway/steps , none
+ladder : for climbing , rung device/climber , none
+rung : step of ladder , step/bar , none
+floor : bottom of room , ground/base , ceiling
+ceiling : top of room , roof/overhead , floor
+wall : side of room , barrier/partition , none
+window : opening for light , opening/aperture , none
+door : entrance/exit , gateway/entrance , none
+gate : entrance to area , doorway/entrance , none
+fence : barrier of wood , enclosure/barrier , none
+hedge : row of shrubs , bush/barrier , none
+gate : entry way , entrance/barrier , none
+bridge : crosses over , crossing/span , none
+road : path for travel , way/route , none
+street : urban road , way/avenue , none
+avenue : wide street , street/boulevard , none
+boulevard : broad street , avenue/street , none
+lane : narrow way , path/alley , none
+alley : narrow passage , lane/passage , none
+path : way for walking , walkway/trail , none
+trail : marked way , path/track , none
+highway : major road , freeway/expressway , none
+freeway : toll-free highway , highway/interstate , none
+expressway : fast road , highway/freeway , none
+interstate : connects states , highway/freeway , none
+tunnel : underground passage , passage/bore , none
+underpass : passage beneath , tunnel/crossing , none
+overpass : passage above , bridge/crossing , none
+pier : platform on water , dock/wharf , none
+dock : loading area , wharf/pier , none
+wharf : dock area , pier/dock , none
+harbor : sheltered water , port/anchorage , none
+port : harbor/entry point , harbor/dock , none
+anchor : holds ship , holder/fastener , none
+chain : connected links , series/bonds , none
+rope : thick cord , line/twine , none
+cord : thin rope , line/string , none
+string : thin cord , thread/twine , none
+thread : thin strand , fiber/filament , none
+wire : thin metal , filament/strand , none
+cable : thick wire , line/rope , none
+knot : tied loop , tie/bond , none
+loop : circular opening , circle/ring , none
+circle : round shape , ring/disc , none
+ring : circular band , circle/band , none
+link : connection , connection/bond , none
+bond : connection , link/tie , none
+chain : series of links , sequence/series , none
+hook : curved catching device , catch/clasp , none
+clasp : fastening device , catch/clip , none
+clip : fastening device , clasp/clamp , none
+clamp : holding device , vice/grip , none
+vice : holding device , clamp/grip , none
+clamp : fastening device , clip/vice , none
+nail : fastening , fastener/spike , none
+screw : fastening device , bolt/fastener , none
+bolt : metal fastener , screw/pin , none
+pin : thin fastener , fastener/peg , none
+peg : wooden pin , stake/pin , none
+stake : pointed stick , peg/post , none
+post : vertical support , pole/pillar , none
+pole : long rod , stick/staff , none
+rod : metal stick , pole/bar , none
+bar : metal rod , rod/pole , none
+beam : large timber , girder/joist , none
+joist : supporting beam , beam/timber , none
+rafter : roof support , beam/timber , none
+timber : wooden beam , wood/lumber , none
+wood : forest material , timber/lumber , none
+lumber : sawed wood , timber/wood , none
+plank : thick board , board/timber , none
+board : flat wood , plank/timber , none
+shingle : roof tile , tile/roofing , none
+slate : roofing material , tile/rock , none
+brick : building block , block/stone , none
+stone : hard material , rock/boulder , none
+rock : large stone , stone/boulder , none
+boulder : large rock , stone/rock , none
+gravel : small stones , stones/pebbles , none
+pebble : small stone , stone/pebble , none
+sand : fine particles , grains/particles , none
+soil : earth material , earth/dirt , none
+earth : ground material , soil/dirt , none
+dirt : soil or filth , soil/earth , none
+clay : soft earth , mud/earthen , none
+mud : wet soil , mire/clay , none
+dust : fine particles , particles/powder , none
+powder : fine particles , dust/particles , none
+ash : residue from fire , residue/cinder , none
+cinder : burnt residue , ash/coal , none
+coal : black fuel , fuel/carbon , none
+charcoal : burnt wood , carbon/fuel , none
+smoke : burning vapor , fume/vapor , none
+flame : fire light , fire/blaze , none
+fire : burning heat , blaze/flame , none
+heat : warmth , warmth/temperature , cold
+warmth : moderate heat , heat/comfort , cold
+cold : low temperature , chill/frost , hot
+temperature : degree of heat , heat/warmth , none
+ice : frozen water , frost/crystal , none
+frost : frozen dew , rime/freeze , none
+snow : frozen precipitation , flakes/powder , none
+hail : frozen rain , ice/pellets , none
+rain : falling water , precipitation/downpour , none
+cloud : water vapor mass , mist/vapor , none
+mist : fine vapor , fog/haze , none
+fog : dense mist , mist/haze , none
+haze : obscuring vapor , mist/fog , none
+breeze : light wind , wind/gust , none
+wind : moving air , breeze/gust , none
+gust : sudden wind , wind/burst , none
+storm : violent weather , tempest/gale , none
+tempest : violent storm , storm/gale , none
+gale : strong wind , wind/storm , none
+hurricane : violent storm , cyclone/typhoon , none
+tornado : rotating wind , cyclone/whirlwind , none
+cyclone : rotating storm , tornado/hurricane , none
+typhoon : tropical storm , hurricane/cyclone , none
+blizzard : heavy snowstorm , snowstorm/whiteout , none
+drought : lack of water , dryness/aridity , flood
+flood : overflow of water , deluge/inundation , drought
+stream : small river , creek/brook , none
+creek : small stream , brook/stream , none
+brook : small creek , stream/creek , none
+river : large stream , waterway/course , none
+waterfall : falling water , cascade/falls , none
+cascade : falling water , waterfall/falls , none
+lake : body of water , pond/reservoir , none
+pond : small lake , pool/lake , none
+pool : body of water , pond/puddle , none
+puddle : small pool , pool/splash , none
+ocean : large sea , sea/expanse , none
+sea : body of salt water , ocean/waters , none
+gulf : large bay , bay/inlet , none
+bay : body of water , gulf/inlet , none
+inlet : narrow bay , bay/cove , none
+cove : small inlet , inlet/bay , none
+strait : narrow passage , channel/passage , none
+channel : water passage , strait/passage , none
+current : water flow , flow/stream , none
+tide : ocean rise/fall , flow/surge , none
+wave : water movement , ripple/surge , none
+ripple : small wave , undulation/wave , none
+surge : sudden movement , swell/wave , none
+swell : wave movement , surge/wave , none
+whirlpool : swirling water , vortex/eddy , none
+eddy : circular current , whirlpool/vortex , none
+vortex : swirling center , whirlpool/eddy , none
